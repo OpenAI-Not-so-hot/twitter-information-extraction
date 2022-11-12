@@ -1,0 +1,12 @@
+nltk
+numpy
+openai
+pandas
+streamlit
+black
+tenacity
+trafilatura
+flake8
+tweepy
+json
+logging
